@@ -11,6 +11,10 @@
     {
       "id": "Recipes",
       "isDefault": false
+    },
+    {
+      "id": "Grocery Spending",
+      "isDefault": false
     }
   ],
   "viewMode": false,
