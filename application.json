@@ -7,6 +7,10 @@
     {
       "id": "Grocery Lists",
       "isDefault": false
+    },
+    {
+      "id": "Recipes",
+      "isDefault": false
     }
   ],
   "viewMode": false,
