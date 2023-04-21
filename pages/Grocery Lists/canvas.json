@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 560,
+          "bottomRow": 540,
           "containerStyle": "none",
           "snapRows": 64,
           "parentRowSpace": 1,
@@ -88,8 +88,8 @@
               "isCanvas": true,
               "displayName": "Tabs",
               "iconSVG": "/static/media/icon.74a6d653c8201e66f1cd367a3fba2657.svg",
-              "topRow": 26,
-              "bottomRow": 56,
+              "topRow": 24,
+              "bottomRow": 54,
               "parentRowSpace": 10,
               "type": "TABS_WIDGET",
               "hideCard": false,
@@ -97,7 +97,7 @@
               "animateLoading": true,
               "parentColumnSpace": 12.5625,
               "dynamicTriggerPathList": [],
-              "leftColumn": 15,
+              "leftColumn": 14,
               "dynamicBindingPathList": [
                 {
                   "key": "accentColor"
@@ -1386,7 +1386,7 @@
                               "isLoading": false,
                               "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
                               "originalBottomRow": 14,
-                              "widgetName": "list_name",
+                              "widgetName": "Input1",
                               "displayName": "Input",
                               "searchTags": [
                                 "form",
@@ -1411,7 +1411,7 @@
                               "rightColumn": 49,
                               "widgetId": "5nburdhpsm",
                               "minWidth": 450,
-                              "label": "List Name",
+                              "label": "List ID",
                               "parentId": "oqk3hbl6pd",
                               "labelAlignment": "left",
                               "renderMode": "CANVAS",
@@ -1481,7 +1481,7 @@
               "key": "3l3otjvm57",
               "backgroundColor": "#FFFFFF",
               "isDeprecated": false,
-              "rightColumn": 48,
+              "rightColumn": 47,
               "dynamicHeight": "AUTO_HEIGHT",
               "widgetId": "szm0ldv6mv",
               "accentColor": "{{appsmith.theme.colors.primaryColor}}",
@@ -1530,10 +1530,10 @@
               "renderMode": "CANVAS",
               "isLoading": false,
               "responsiveBehavior": "fill",
-              "originalTopRow": 26,
+              "originalTopRow": 24,
               "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
               "maxDynamicHeight": 9000,
-              "originalBottomRow": 56,
+              "originalBottomRow": 67,
               "minDynamicHeight": 10
             },
             {
